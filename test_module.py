@@ -1,7 +1,7 @@
 import unittest
 import sea_level_predictor
 import matplotlib as mpl
-import NumPy as np
+import numpy as np
 
 
 # the test case
